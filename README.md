@@ -24,13 +24,14 @@
 
 ## 👨‍💻 About me
 
-- 🎓 Systems Engineering student at **Escuela Colombiana de Ingeniería Julio Garavito**.
-- ⚙️ Backend developer building real-time and secure systems with **Java and Spring Boot**, while researching **Cybersecurity** and **Network Administration**.
-- 🧑‍🏫 Academic monitor for **Software Development and Operations (DOSW)** [and previously Logic & Discrete Mathematics], supporting [N] students.
-- 🏆 Led a team of [X] developers in the **Tech Cup** competition [result/year].
-- 📜 Certified in **Web Development** and **Cybersecurity & Ethical Hacking** ([institution], [year]).
-- 🤖 I explore generative AI tools to boost productivity, and I keep a consistent gym routine.
-
+- 🎓 Systems Engineering student at **Escuela Colombiana de Ingeniería Julio Garavito**
+- ⚙️ Backend developer building real-time and secure systems with **Java and Spring Boot**
+- 🔐 Researching and practicing **Cybersecurity** and **Network Administration**
+- 🧑‍🏫 Academic monitor for **Software Development and Operations (DOSW)**
+- 🏆 Led the development team for the **Tech Cup** competition
+- 📜 Certified in **Web Development** and **Cybersecurity & Ethical Hacking**
+- 🤖 Exploring generative AI tools for productivity, and keeping a consistent gym routine 💪
+  
 ---
 
 ## 🚀 Featured Projects
