@@ -31,7 +31,7 @@
 - 🏆 Led the development team for the **Tech Cup** competition
 - 📜 Certified in **Web Development** and **Cybersecurity & Ethical Hacking**
 - 🤖 Exploring generative AI tools for productivity, and keeping a consistent gym routine 💪
-  
+
 ---
 
 ## 🚀 Featured Projects
@@ -46,17 +46,19 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/STOMP%2FWebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**My role:** Tech lead (backend, frontend and art/assets) · [Repo](link) · [Demo](link)
+**My role:** Tech lead (backend, frontend and art/assets) · [Repo](link)
 
-### 🧩 Collaborative Architecture Board
-Collaborative architecture board with a REST + STOMP backend, an SVG web client and real-time sync between users. Built in a team of 3 with GitFlow, PRs and Azure DevOps docs.
+### 📦 Inventory System for a Local Bakery
+Real client project: tracks product entries and exits with pricing, role-based access (admin / worker) and monthly PDF reports in APA format with the shop's branding.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![WebSocket](https://img.shields.io/badge/STOMP%2FWebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-**My role:** Backend (domain model, CONNECTOR elements, WebSocket layer) · [Repo](link)
+**My role:** Full-stack developer · [Repo](https://github.com/iAxstral/inventario-cliente)
 
 ### 🧠 CVScope
 Explainable AI system for talent pre-screening: classifies candidates by role and ranks them transparently using pre-trained embeddings plus a custom classifier (transfer learning).
@@ -66,9 +68,11 @@ Explainable AI system for talent pre-screening: classifies candidates by role an
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-[Repo](link)
+**My role:** [Repo](link)
 
 ---
+
+<div align="center">
 
 ## 🛠 Tech Stack
 
@@ -88,6 +92,8 @@ Explainable AI system for talent pre-screening: classifies candidates by role an
 
 <img src="https://skillicons.dev/icons?i=figma,ai,ps&perline=15" alt="Design" />
 
+</div>
+
 ---
 
 ## 🌱 Currently
@@ -98,11 +104,13 @@ Explainable AI system for talent pre-screening: classifies candidates by role an
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iAxstral&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAxstral&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iAxstral&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAxstral&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50%:1F6FEB,100%:0D1117&height=100&section=footer" width="100%" alt="footer" />
