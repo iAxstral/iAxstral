@@ -1,63 +1,82 @@
-# Hi there, I'm Tomas! 👋
+# Hi, I'm Tomás 👋
 
-## 👨‍💻 About me
-
-* I'm a Systems Engineering student at the Escuela Colombiana de Ingeniería Julio Garavito.
-* Currently, I specialize in backend development using Java and Spring Boot, while actively researching and practicing Cybersecurity and Network Administration.
-* I serve as an academic Monitor for Logic and Discrete Mathematics.
-* Recently, I led the development team for the Tech Cup competition.
-* I hold professional certifications in Web Development and Cybersecurity & Ethical Hacking.
-* Beyond coding, I'm passionate about exploring generative AI tools for productivity and maintaining a consistent fitness routine at the gym.
+Systems Engineering student • Backend developer (Java / Spring Boot) • Cybersecurity enthusiast
+📍 Bogotá, Colombia · 🗣️ Spanish (native) · English (B2)
 
 ---
 
-## 🛠 Known Technologies 
+## 👨‍💻 About me
 
-### Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+- 🎓 Systems Engineering student at **Escuela Colombiana de Ingeniería Julio Garavito**.
+- ⚙️ Backend developer building real-time and secure systems with **Java and Spring Boot**, while researching and practicing **Cybersecurity** and **Network Administration**.
+- 🧑‍🏫 Academic monitor for **Software Development and Operations (DOSW)** [and previously Logic & Discrete Mathematics], supporting [N] students.
+- 🏆 Led a team of [X] developers in the **Tech Cup** competition [result/year].
+- 📜 Certified in **Web Development** and **Cybersecurity & Ethical Hacking** ([institution], [year]).
+- 🤖 I explore generative AI tools to boost productivity, and I keep a consistent gym routine.
 
-### Databases & Cloud
+---
+
+## 🚀 Featured Projects
+
+### 🎮 Operación Garavito
+4-player cooperative real-time game set on the ECI campus, with a 2D map and character movement. A central `RoundCoordinator` handles concurrency between players.
+**Stack:** Java 21 · Spring Boot · React · Vite · Phaser 3 · STOMP/WebSocket · PostgreSQL
+**My role:** Tech lead (backend, frontend and art/assets) · [Repo](link) · [Demo](link)
+
+### 🧩 Collaborative Architecture Board
+Collaborative architecture board with a REST + STOMP backend, an SVG web client and real-time sync between users. Built in a team of 3 with GitFlow, PRs and Azure DevOps docs.
+**Stack:** Java · Spring Boot · STOMP/WebSocket · SVG client (JS)
+**My role:** Backend (domain model, CONNECTOR elements, WebSocket layer) · [Repo](link)
+
+### 🧠 CVScope
+Explainable AI system for talent pre-screening: classifies candidates by role and ranks them transparently using pre-trained embeddings plus a custom classifier (transfer learning).
+**Stack:** Python · FastAPI · sentence-transformers · React · Vite · PostgreSQL
+[Repo](link)
+
+---
+
+## 🛠 Tech Stack
+
+### ⭐ Core (what I use the most)
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-### Tools & Environments
-<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </p>
 
-### Design
+### 📚 Familiar (I've built things with them)
 <p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+## 🌱 Currently
+
+- 🔨 Building: **Operación Garavito** (real-time multiplayer game)
+- 🔐 Learning: Cybersecurity (secure product development) and Network Administration
+- 🗣️ Improving my English (B2 → C1)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iAxstral&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAxstral&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -68,11 +87,11 @@
   <a href="https://www.linkedin.com/in/tomas-diaz-222357294/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-**Click the button below to send me an email:**
-<p align="left">
-  <a href="mailto:tomasdi.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://portafolio-tomasolaya.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+📧 tomasdi.dev@gmail.com
+
+> 🇨🇴 *Hablo español nativo y me comunico en inglés a nivel B2. ¡Escríbeme!*
