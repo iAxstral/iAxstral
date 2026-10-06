@@ -1,14 +1,31 @@
-# Hi, I'm Tomás 👋
+<div align="center">
 
-Systems Engineering student • Backend developer (Java / Spring Boot) • Cybersecurity enthusiast
-📍 Bogotá, Colombia · 🗣️ Spanish (native) · English (B2)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50%:1F6FEB,100%:8957E5&height=180&section=header&text=Tom%C3%A1s%20Olaya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Hi,+I'm+Tom%C3%A1s;Backend+Developer+%7C+Java+%26+Spring+Boot;Systems+Engineering+Student;Cybersecurity+%26+Networking+Enthusiast" alt="Typing SVG" />
+</a>
+
+📍 Bogotá, Colombia &nbsp;•&nbsp; 🗣️ Spanish (native) · English (B2)
+
+<a href="https://www.linkedin.com/in/tomas-diaz-222357294/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://portafolio-tomasolaya.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:tomasdi.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About me
 
 - 🎓 Systems Engineering student at **Escuela Colombiana de Ingeniería Julio Garavito**.
-- ⚙️ Backend developer building real-time and secure systems with **Java and Spring Boot**, while researching and practicing **Cybersecurity** and **Network Administration**.
+- ⚙️ Backend developer building real-time and secure systems with **Java and Spring Boot**, while researching **Cybersecurity** and **Network Administration**.
 - 🧑‍🏫 Academic monitor for **Software Development and Operations (DOSW)** [and previously Logic & Discrete Mathematics], supporting [N] students.
 - 🏆 Led a team of [X] developers in the **Tech Cup** competition [result/year].
 - 📜 Certified in **Web Development** and **Cybersecurity & Ethical Hacking** ([institution], [year]).
@@ -20,78 +37,71 @@ Systems Engineering student • Backend developer (Java / Spring Boot) • Cyber
 
 ### 🎮 Operación Garavito
 4-player cooperative real-time game set on the ECI campus, with a 2D map and character movement. A central `RoundCoordinator` handles concurrency between players.
-**Stack:** Java 21 · Spring Boot · React · Vite · Phaser 3 · STOMP/WebSocket · PostgreSQL
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Phaser](https://img.shields.io/badge/Phaser_3-8E44AD?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/STOMP%2FWebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
 **My role:** Tech lead (backend, frontend and art/assets) · [Repo](link) · [Demo](link)
 
 ### 🧩 Collaborative Architecture Board
 Collaborative architecture board with a REST + STOMP backend, an SVG web client and real-time sync between users. Built in a team of 3 with GitFlow, PRs and Azure DevOps docs.
-**Stack:** Java · Spring Boot · STOMP/WebSocket · SVG client (JS)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WebSocket](https://img.shields.io/badge/STOMP%2FWebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
 **My role:** Backend (domain model, CONNECTOR elements, WebSocket layer) · [Repo](link)
 
 ### 🧠 CVScope
 Explainable AI system for talent pre-screening: classifies candidates by role and ranks them transparently using pre-trained embeddings plus a custom classifier (transfer learning).
-**Stack:** Python · FastAPI · sentence-transformers · React · Vite · PostgreSQL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
 [Repo](link)
 
 ---
 
 ## 🛠 Tech Stack
 
-### ⭐ Core (what I use the most)
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+**Languages & Frameworks**
 
-### 📚 Familiar (I've built things with them)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,py,ts,js,cpp,php,laravel,dart,flutter,dotnet,react,nodejs,html,css&perline=15" alt="Languages and frameworks" />
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,oracle,firebase&perline=15" alt="Databases" />
+
+**Tools & Environments**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse,linux,mui&perline=15" alt="Tools" />
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps&perline=15" alt="Design" />
 
 ---
 
 ## 🌱 Currently
 
-- 🔨 Building: **Operación Garavito** (real-time multiplayer game)
-- 🔐 Learning: Cybersecurity (secure product development) and Network Administration
+- 🔨 Building **Operación Garavito** (real-time multiplayer game)
+- 🔐 Learning Cybersecurity (secure product development) and Network Administration
 - 🗣️ Improving my English (B2 → C1)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iAxstral&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAxstral&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iAxstral&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAxstral&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
----
-
-## 📬 Get in Touch
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tomas-diaz-222357294/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portafolio-tomasolaya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-📧 tomasdi.dev@gmail.com
-
-> 🇨🇴 *Hablo español nativo y me comunico en inglés a nivel B2. ¡Escríbeme!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50%:1F6FEB,100%:0D1117&height=100&section=footer" width="100%" alt="footer" />
